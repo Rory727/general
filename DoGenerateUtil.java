@@ -1,4 +1,4 @@
-package com.ebay.cbt.sd.hermes.stockingmodel;
+package com.rory;
 
 /**  
  * @author ruirli
